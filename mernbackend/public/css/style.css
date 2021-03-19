@@ -277,9 +277,9 @@ display-flex, .display-flex, .display-flex-center, .signup-content, .signin-cont
     -o-appearance: radio !important;
     -ms-appearance: radio !important; }
   
-  img {
+ /* img {
     max-width: 100%;
-    height: auto; }
+    height: auto; }*/
   
   figure {
     margin: 0; }
